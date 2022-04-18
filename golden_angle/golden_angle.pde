@@ -1,17 +1,3 @@
-# life-science-coding
-找尋生命科學裡的程式設計, 將海洋大學廖柏凱老師的程式寫出來
-
-銘傳大學葉正聖
-
-寫作動機: 因為吳賦哲老師提到, 需要寫一些範例來示範, 所以就把海洋大學廖柏凱老師的程式概念, 照著投影片裡的介紹, 重新寫出來。
-
-https://www.youtube.com/playlist?list=PLhfafhvnZV2DMRqrvxyFt70l_hPHfs_GT
-
-## 黃金角 golden_angle
-
-![golden_angle](golden_angle/golden_angle.png)
-
-```processing
 //https://youtu.be/va7KEVzrhys?t=497 海洋大學 廖柏凱老師 黃金角
 //https://en.wikipedia.org/wiki/Golden_angle
 //137.5077640500378546463487 degrees
@@ -41,7 +27,3 @@ void draw(){
     H = (H + 0.2)%256;
   }
 }
-```
-
-
-
